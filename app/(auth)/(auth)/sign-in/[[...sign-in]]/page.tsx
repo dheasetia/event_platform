@@ -1,7 +1,7 @@
 import React from 'react';
 import {SignIn} from "@clerk/nextjs";
 
-function Page(props) {
+function Page() {
     return (
         <SignIn/>
     );
