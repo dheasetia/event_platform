@@ -12,7 +12,7 @@ import {Separator} from "@/components/ui/separator";
 import NavItems from "@/components/shared/NavItems";
 
 
-function MobileNav(props) {
+function MobileNav() {
     return (
         <nav className={"md:hidden"}>
             <Sheet>
