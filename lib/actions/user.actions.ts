@@ -33,7 +33,7 @@ export async function getUserById(userId: string) {
         handleError(error)
     }
 }
-
+/*
 export async function updateUser(clerkId: string, user: UpdateUserParams) {
     try {
         await connectToDatabase()
@@ -79,3 +79,4 @@ export async function deleteUser(clerkId: string) {
         handleError(error)
     }
 }
+*/
